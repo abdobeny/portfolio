@@ -1,0 +1,95 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 6321 >>
+stream
+q 0.980 0.980 0.980 rg 0.00 723.89 595.28 118.00 re f Q
+q 0.020 0.588 0.412 rg 0.00 719.89 595.28 4.00 re f Q
+BT /F2 24 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 779.89 Tm (Abdellilah Benyousse) Tj ET
+BT /F1 11 Tf 0.020 0.588 0.412 rg 1 0 0 1 48.00 759.89 Tm (Developpeur Web Full-Stack  |  Laravel, Filament, React.js, MySQL) Tj ET
+BT /F1 8.5 Tf 0.322 0.322 0.357 rg 1 0 0 1 48.00 742.89 Tm (Marrakech, Maroc  |  +212 6 41 13 12 40  |  benyousseabdellilah@gmail.com) Tj ET
+BT /F1 8.5 Tf 0.322 0.322 0.357 rg 1 0 0 1 48.00 729.89 Tm (github.com/abdobeny  |  linkedin.com/in/abdelilah-benyousse) Tj ET
+BT /F2 11 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 689.89 Tm (PROFIL) Tj ET
+q 0.894 0.894 0.906 RG 1 w 48.00 683.89 m 547.28 683.89 l S Q
+BT /F1 9 Tf 0.322 0.322 0.357 rg 1 0 0 1 48.00 667.89 Tm (Developpeur web base a Marrakech, specialise dans l'ecosysteme PHP \(Laravel, Filament\) et React.js. Je concois des applications dynamiques et structurees : du modele de donnees MySQL jusqu'a l'interface, avec un code propre et maintenable.) Tj ET
+BT /F2 11 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 653.89 Tm (COMPETENCES) Tj ET
+q 0.894 0.894 0.906 RG 1 w 48.00 647.89 m 547.28 647.89 l S Q
+q 0.957 0.957 0.961 rg 48.00 565.89 499.28 74.00 re f Q
+BT /F2 8.5 Tf 0.094 0.094 0.106 rg 1 0 0 1 60.00 619.89 Tm (Frontend) Tj ET
+BT /F2 8.5 Tf 0.094 0.094 0.106 rg 1 0 0 1 60.00 607.89 Tm (Backend & Donnees) Tj ET
+BT /F2 8.5 Tf 0.094 0.094 0.106 rg 1 0 0 1 258.00 619.89 Tm (Programmation) Tj ET
+BT /F2 8.5 Tf 0.094 0.094 0.106 rg 1 0 0 1 428.00 619.89 Tm (Outils & Qualite) Tj ET
+BT /F1 8.5 Tf 0.322 0.322 0.357 rg 1 0 0 1 60.00 595.89 Tm (React.js, Tailwind CSS,) Tj ET
+BT /F1 8.5 Tf 0.322 0.322 0.357 rg 1 0 0 1 60.00 584.89 Tm (JavaScript \(ES6\), HTML5,) Tj ET
+BT /F1 8.5 Tf 0.322 0.322 0.357 rg 1 0 0 1 60.00 573.89 Tm (CSS3, Bootstrap) Tj ET
+BT /F1 8.5 Tf 0.322 0.322 0.357 rg 1 0 0 1 258.00 595.89 Tm (PHP \(Laravel, MVC\),) Tj ET
+BT /F1 8.5 Tf 0.322 0.322 0.357 rg 1 0 0 1 258.00 584.89 Tm (Filament, MySQL,) Tj ET
+BT /F1 8.5 Tf 0.322 0.322 0.357 rg 1 0 0 1 258.00 573.89 Tm (MongoDB, REST API) Tj ET
+BT /F1 8.5 Tf 0.322 0.322 0.357 rg 1 0 0 1 428.00 595.89 Tm (Python \(POO\),) Tj ET
+BT /F1 8.5 Tf 0.322 0.322 0.357 rg 1 0 0 1 428.00 584.89 Tm (Git, GitHub, VS Code,) Tj ET
+BT /F1 8.5 Tf 0.322 0.322 0.357 rg 1 0 0 1 428.00 573.89 Tm (Composer, Jira, Figma) Tj ET
+BT /F2 11 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 529.89 Tm (PROJETS REALISES) Tj ET
+q 0.894 0.894 0.906 RG 1 w 48.00 523.89 m 547.28 523.89 l S Q
+BT /F2 9.5 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 507.89 Tm (Plateforme de Refuge Animalier  ?  Projet de groupe) Tj ET
+BT /F1 8.5 Tf 0.020 0.588 0.412 rg 1 0 0 1 48.00 496.89 Tm (Laravel, React.js, Filament, MySQL, API REST) Tj ET
+BT /F1 9 Tf 0.322 0.322 0.357 rg 1 0 0 1 48.00 484.89 Tm (Application web SPA pour la gestion de l'adoption d'animaux, reliant un frontend React a une API Laravel robuste. Administration sur mesure via Filament PHP.) Tj ET
+BT /F2 9.5 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 471.89 Tm (Agence de Voyage Automatisee  ?  Projet personnel) Tj ET
+BT /F1 8.5 Tf 0.020 0.588 0.412 rg 1 0 0 1 48.00 460.89 Tm (Laravel, React.js, WhatsApp API, Filament) Tj ET
+BT /F1 9 Tf 0.322 0.322 0.357 rg 1 0 0 1 48.00 448.89 Tm (Plateforme centralisant les requetes touristiques avec automatisation des confirmations via l'API WhatsApp et gestion du catalogue via Filament PHP.) Tj ET
+BT /F2 9.5 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 435.89 Tm (Blog Dynamique \(Architecture MVC\)  ?  Projet academique) Tj ET
+BT /F1 8.5 Tf 0.020 0.588 0.412 rg 1 0 0 1 48.00 424.89 Tm (PHP natif, MySQL, MVC, CRUD) Tj ET
+BT /F1 9 Tf 0.322 0.322 0.357 rg 1 0 0 1 48.00 412.89 Tm (Moteur de blog modulaire concu sans framework externe, avec separation stricte des responsabilites, requetes preparees et systeme CRUD complet.) Tj ET
+BT /F2 11 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 399.89 Tm (FORMATION) Tj ET
+q 0.894 0.894 0.906 RG 1 w 48.00 393.89 m 547.28 393.89 l S Q
+BT /F2 9.5 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 377.89 Tm (Developpement Digital  ?  OFPPT ISGI, Marrakech) Tj ET
+BT /F1 8.5 Tf 0.020 0.588 0.412 rg 1 0 0 1 48.00 366.89 Tm (2024 - 2026 \(en cours\)) Tj ET
+BT /F1 9 Tf 0.322 0.322 0.357 rg 1 0 0 1 48.00 354.89 Tm (Specialisation en developpement web full stack, architectures MVC, bases de donnees relationnelles et frameworks modernes \(Laravel, React\).) Tj ET
+BT /F2 9.5 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 341.89 Tm (CPGE - Filiere TSI  ?  Lycee Moulay Abdellah, Safi) Tj ET
+BT /F1 8.5 Tf 0.020 0.588 0.412 rg 1 0 0 1 48.00 330.89 Tm (2019 - 2021) Tj ET
+BT /F1 9 Tf 0.322 0.322 0.357 rg 1 0 0 1 48.00 318.89 Tm (Classes preparatoires aux grandes ecoles : rigueur d'analyse, mathematiques appliquees et sciences de l'ingenieur.) Tj ET
+BT /F2 9.5 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 305.89 Tm (Baccalaureat STM  ?  Lycee Mohammed VI, Marrakech) Tj ET
+BT /F1 8.5 Tf 0.020 0.588 0.412 rg 1 0 0 1 48.00 294.89 Tm (2018 - 2019) Tj ET
+BT /F1 9 Tf 0.322 0.322 0.357 rg 1 0 0 1 48.00 282.89 Tm (Sciences et technologies mecaniques. Solide initiation technique et logique de conception.) Tj ET
+BT /F2 11 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 269.89 Tm (EXPERIENCE PROFESSIONNELLE) Tj ET
+q 0.894 0.894 0.906 RG 1 w 48.00 263.89 m 547.28 263.89 l S Q
+BT /F2 9.5 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 247.89 Tm (Tele-operateur  ?  Telerecord, Marrakech) Tj ET
+BT /F1 8.5 Tf 0.020 0.588 0.412 rg 1 0 0 1 48.00 236.89 Tm (2023) Tj ET
+BT /F1 9 Tf 0.322 0.322 0.357 rg 1 0 0 1 48.00 224.89 Tm (Gestion de la relation client par telephone, respect strict des protocoles de qualite et travail d'equipe en environnement exigeant.) Tj ET
+BT /F2 11 Tf 0.094 0.094 0.106 rg 1 0 0 1 48.00 211.89 Tm (LANGUES & INTERETS) Tj ET
+q 0.894 0.894 0.906 RG 1 w 48.00 205.89 m 547.28 205.89 l S Q
+BT /F1 9 Tf 0.322 0.322 0.357 rg 1 0 0 1 48.00 189.89 Tm (Arabe : maternelle      |      Francais : courant      |      Anglais : courant) Tj ET
+BT /F1 9 Tf 0.631 0.631 0.667 rg 1 0 0 1 48.00 175.89 Tm (#Linux      #Gaming      #Sport) Tj ET
+q 0.894 0.894 0.906 RG 0.8 w 48.00 46.00 m 547.28 46.00 l S Q
+BT /F1 8 Tf 0.631 0.631 0.667 rg 1 0 0 1 48.00 34.00 Tm (Abdellilah Benyousse  ?  Developpeur Web Full-Stack) Tj ET
+BT /F1 8 Tf 0.631 0.631 0.667 rg 1 0 0 1 48.00 24.00 Tm (benyousseabdellilah@gmail.com  |  +212 6 41 13 12 40) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000263 00000 n 
+0000000360 00000 n 
+0000000462 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+6835
+%%EOF

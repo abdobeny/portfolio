@@ -1,0 +1,4 @@
+# SPA fallback — keeps deep links working if a router is added later.
+# Cloudflare Pages serves existing files from the asset directory first,
+# so this only catches paths that do not exist on disk.
+/*    /index.html   200
