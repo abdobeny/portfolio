@@ -402,15 +402,15 @@ export const skillsList = {
  */
 export const projectLinks = {
   "refuge-animalier": {
-    repo: null, // e.g. 'https://github.com/abdobeny/refuge-animalier'
-    demo: null, // e.g. 'https://refuge-animalier.pages.dev'
+    repo: 'https://github.com/abdobeny/Refuconnect',
+    demo: null,
   },
   "agence-voyage": {
-    repo: null, // e.g. 'https://github.com/abdobeny/agence-voyage'
-    demo: null, // e.g. 'https://agence-voyage.pages.dev'
+    repo: 'https://github.com/abdobeny/Tripflow',
+    demo: null,
   },
   "blog-mvc": {
-    repo: null, // e.g. 'https://github.com/abdobeny/blog-mvc'
+    repo: 'https://github.com/abdobeny/php-blog-mvc',
     demo: null,
   },
 };
