@@ -13,7 +13,7 @@ export const content = {
       role: "Développeur Web Full-Stack",
       badge: "React.js · Laravel · Filament · MySQL",
       greeting: "Bonjour, je suis",
-      name: "Abdellilah Benyousse",
+      name: "Abdelilah Benyousse",
       pitch: "Développeur web basé à Marrakech, spécialisé dans l'écosystème PHP (Laravel, Filament) et React.js. Je conçois des applications dynamiques et structurées : du modèle de données MySQL jusqu'à l'interface, avec un code propre et maintenable.",
       location: "Marrakech, Maroc",
       contactBtn: "Me contacter",
@@ -141,7 +141,7 @@ export const content = {
       role: "Full-Stack Web Developer",
       badge: "React.js · Laravel · Filament · MySQL",
       greeting: "Hello, I am",
-      name: "Abdellilah Benyousse",
+      name: "Abdelilah Benyousse",
       pitch: "Web developer based in Marrakech, specialized in the PHP ecosystem (Laravel, Filament) and React.js. I build dynamic, well-structured applications — from MySQL data modeling to the user interface — with clean, maintainable code.",
       location: "Marrakech, Morocco",
       contactBtn: "Get in touch",
@@ -416,7 +416,7 @@ export const projectLinks = {
 };
 
 export const profileConfig = {
-  name: "Benyousse Abdellilah",
+  name: "Benyousse Abdelilah",
   avatarUrl: "/images/profile.jpg",
   email: "benyousseabdelilah@gmail.com",
   phone: "+212641131240",

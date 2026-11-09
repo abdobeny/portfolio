@@ -1,4 +1,4 @@
-# Abdellilah Benyousse — Portfolio
+# Abdelilah Benyousse — Portfolio
 
 [![Built with Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
@@ -71,4 +71,4 @@ public/
 ```
 
 ## Licence
-[MIT](./LICENSE) — © 2026 Abdellilah Benyousse
+[MIT](./LICENSE) — © 2026 Abdelilah Benyousse
