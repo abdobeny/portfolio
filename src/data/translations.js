@@ -424,5 +424,5 @@ export const profileConfig = {
   github: "https://github.com/abdobeny",
   githubHandle: "@abdobeny",
   linkedin: "https://www.linkedin.com/in/abdelilah-benyousse",
-  resumePath: "/cv-benyousse-abdellilah.pdf",
+  resumePath: "/cv-benyousse-abdelilah.pdf",
 };

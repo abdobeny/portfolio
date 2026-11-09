@@ -67,7 +67,7 @@ public/
 ├── images/       # Avatars et captures de projets
 ├── _headers      # Headers Cloudflare/Netlify
 ├── _redirects    # Fallback SPA
-└── cv-benyousse-abdellilah.pdf
+└── cv-benyousse-abdelilah.pdf
 ```
 
 ## Licence
