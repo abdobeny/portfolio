@@ -61,7 +61,7 @@ export default function Footer() {
         </div>
 
         <div className="flex flex-col sm:flex-row items-center justify-between text-xs font-mono text-faint gap-4">
-          <p>© {new Date().getFullYear()} {profileConfig.name}. {t.footer.rights}</p>
+          <p>© {new Date().getFullYear()} {t.hero.name || profileConfig.name}. {t.footer.rights}</p>
           <p>{t.footer.builtWith}</p>
         </div>
 

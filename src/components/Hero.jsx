@@ -34,7 +34,7 @@ export default function Hero() {
                 {t.hero.greeting}
               </p>
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-ink">
-                {profileConfig.name}
+                {t.hero.name || profileConfig.name}
               </h1>
               <div className="flex flex-wrap items-center gap-2 pt-1 text-accent font-mono text-sm sm:text-base">
                 <span>{t.hero.role}</span>
@@ -113,7 +113,7 @@ export default function Hero() {
                 {!imageError ? (
                   <img
                     src={profileConfig.avatarUrl}
-                    alt={profileConfig.name}
+                    alt={t.hero.name || profileConfig.name}
                     onError={() => setImageError(true)}
                     className="w-full h-full object-cover rounded-xl grayscale-[20%] group-hover:grayscale-0 transition-all duration-300"
                   />
