@@ -418,7 +418,7 @@ export const projectLinks = {
 export const profileConfig = {
   name: "Benyousse Abdellilah",
   avatarUrl: "/images/profile.jpg",
-  email: "benyousseabdellilah@gmail.com",
+  email: "benyousseabdelilah@gmail.com",
   phone: "+212641131240",
   phoneDisplay: "+212 6 41 13 12 40",
   github: "https://github.com/abdobeny",
